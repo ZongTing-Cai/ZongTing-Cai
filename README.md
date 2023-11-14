@@ -4,7 +4,7 @@
 
 專長：擅長使用Python
 
-聯絡方式：<a24587979@gmail.com>
+聯絡方式：<email@zong-ting.com>
 
 ---
 
@@ -12,4 +12,4 @@ Position: Software Engineer (R&D)
 
 Skills: Proficient in Python
 
-Contact: <a24587979@gmail.com>
+Contact: <email@zong-ting.com>
